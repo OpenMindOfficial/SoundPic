@@ -1,0 +1,65 @@
+.headDiv{
+	width:100%;
+	height:auto;
+}
+
+.logoDiv:{
+	width:25%;
+	height:auto;
+	margin-left:47.5%;
+}
+
+.logoImg{
+	width:100%;
+	height:auto;
+}
+
+.accountDiv{
+	width:5%;
+	height:auto;
+	float:right;
+}
+
+.noAccountContainerDiv{
+	width:10%;
+	height:auto;
+	float:right;
+}
+
+.signInDiv{
+	width:100%;
+	height:auto;
+}
+
+.signUpDiv{
+	width:100%;
+	height:auto;
+}
+
+.searchBarDiv{
+	width:40%;
+	height:auto;
+	margin-left:30%;
+}
+
+.bodyDiv{
+	width:100%;
+	height:auto;
+}
+
+.soundItDiv{
+	width:30%;
+	height:auto;
+	margin-left:35%;
+}
+
+.footerDiv{
+	width:100%;
+	height:auto;
+}
+
+.creditsLbl{
+	width:100%;
+	height:auto;
+	margin-left:5%;
+}
