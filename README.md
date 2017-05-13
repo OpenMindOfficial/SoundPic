@@ -1,4 +1,7 @@
 # SoundPic
+
+A cura di Andrea Peverelli, Marco Perri e Lorenzo Novati.
+
 Obiettivo:
 Il nostro obiettivo è quello di realizzare un sito web nel quale l'utente possa realizzare un disegno in base al quale verrà riprodotta una musica. L'utente potrà inoltre far parte della community di SoundPic registrandosi al sito, accedendo così a varie funzionalità.
 
